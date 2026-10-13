@@ -1,0 +1,7 @@
+# Arquivos compilados do Java
+/bin/
+*.class
+
+# Arquivos temporários
+*.tmp
+*.log
